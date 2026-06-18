@@ -94,8 +94,13 @@ SELECT VERSION() AS 'Versión de MySQL',
 
 ---
 
-### Captura 4 — Validación del entorno
+### Captura 4 — Validación del entorno en MariaDB
 ![Consulta de validación SQL](./img/captura4_validacion.png)
+
+> Resultado de la consulta de validación mostrando la versión de Workbench (`12.3.2-MariaDB`), el usuario actual (`root@localhost`) y la fecha/hora del servidor (`2026-06-17 20:42:40`).
+
+### Captura 5 — Validación del entorno en workbench
+![Consulta de validación SQL](./img/captura5_validacionw.png)
 
 > Resultado de la consulta de validación mostrando la versión de MariaDB (`12.3.2-MariaDB`), el usuario actual (`root@localhost`) y la fecha/hora del servidor (`2026-06-17 19:58:18`).
 
